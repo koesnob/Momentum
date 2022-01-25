@@ -120,7 +120,12 @@
 
 #quote {
   color: white;
+  text-align: center;
   margin-top: 50px;
+  position: absolute;
+  bottom: 30px;
+  left: 5%;
+  right: 5%;
 }
 #quote span:first-child {
   display: flex;
